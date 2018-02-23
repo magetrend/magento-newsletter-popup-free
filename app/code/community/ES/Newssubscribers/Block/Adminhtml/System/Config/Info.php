@@ -42,7 +42,7 @@ class ES_Newssubscribers_Block_Adminhtml_System_Config_Info
             'compare' => 'http://www.magetrend.com/newsletter-popup/?utm_source=m1npf#compare',
             'paid_name' => 'Newsletter Popup PRO',
             'paid_link' => 'http://www.magetrend.com/newsletter-popup-pro/?utm_source=m1npf',
-            'paid_img' => 'http://magetrend.com/media/images/info/newsletter_popup_pro.jpg',
+            'paid_img' => 'http://magetrend.com/media/images/info/newsletter_popup_pro.png',
             'features' => array(
                 '4 x Popup Design',
                 'Responsive Popups',
